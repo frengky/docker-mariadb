@@ -1,4 +1,5 @@
 FROM alpine:latest
+LABEL maintainer="frengky.lim@gmail.com"
 
 RUN mkdir /docker-entrypoint-initdb.d && \
     apk -U upgrade && \

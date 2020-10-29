@@ -4,7 +4,7 @@ MariaDB docker container based on Alpine Linux
 
 | Software | Version |
 |-----|-----|
-| MariaDB | [latest]((https://pkgs.alpinelinux.org/packages)) |
+| MariaDB | [latest](https://pkgs.alpinelinux.org/packages) |
 | Alpine Linux | [alpine:latest](https://hub.docker.com/_/alpine/) |
 
 ## Standalone usage
